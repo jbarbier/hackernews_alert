@@ -7,7 +7,7 @@ require 'mysql2'
 require 'mail'
 
 ######### CONFIG ###########
-look_for='docker'
+look_for = 'docker'
 db_db = 'hn_alert'
 db_username = 'mdm'
 db_password = 'charmes_g'
