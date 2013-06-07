@@ -1,0 +1,10 @@
+CREATE TABLE `logs` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `id_hn` int(11) NOT NULL,
+  `id_parent_hn` int(11) DEFAULT NULL,
+  `create_ts` date NOT NULL,
+  `type` enum('SUBMISSION','COMMENT') NOT NULL DEFAULT 'SUBMISSION',
+  `title` varchar(1024) DEFAULT NULL,
+  `url` varchar(1024) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=63 DEFAULT CHARSET=utf8;
