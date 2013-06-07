@@ -65,3 +65,9 @@ Be free to use the code and improve it to:
 - add more information (usernames, points, ...)
 - add a back office to list all mentionned on HackerNews (from the database)
 - add a back office option to manage the keywords and the emails for each keyword
+
+## Questions?
+
+If you have any questions, feel free ton contact me on (twitter)[https://twitter.com/julienbarbier42]
+
+Have fun!
