@@ -11,8 +11,8 @@ look_for = 'docker'
 db_db = 'hn_alert'
 db_username = 'mdm'
 db_password = 'charmes_g'
-email_from = 'hn@docker.io'
-email_to = 'julien@dotcloud.com'
+email_from = 'your@email_from.io'
+email_to = 'your@email_to.com'
 email_title = "New mention of #{look_for} on HN"
 ############################
 
