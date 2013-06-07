@@ -68,6 +68,6 @@ Be free to use the code and improve it to:
 
 ## Questions?
 
-If you have any questions, feel free ton contact me on (twitter)[https://twitter.com/julienbarbier42]
+If you have any questions, feel free ton contact me on [twitter](https://twitter.com/julienbarbier42)
 
 Have fun!
