@@ -71,3 +71,7 @@ Be free to use the code and improve it to:
 If you have any questions, feel free ton contact me on [twitter](https://twitter.com/julienbarbier42)
 
 Have fun!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jbarbier/hackernews_alert/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
