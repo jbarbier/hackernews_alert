@@ -1,7 +1,7 @@
 # HackerNews Alerts
 
 A simple Ruby script to be alerted by email whenever one specific keyword is mentioned on YCombinator [HackerNews](http://news.ycombinator.com) (not just on the front page).
-By design this script covers the frontpage, the new submitted articles and comments.
+By design this script covers the frontpage, the new submitted articles and comments. For hosted service and more features see [HNWatcher](http://www.hnwatcher.com).
 
 The code is based on the [hnsearch API](https://www.hnsearch.com/api) / [ThriftDB Search API](http://www.thriftdb.com/documentation/rest-api/search-api)
 
@@ -69,6 +69,9 @@ Be free to use the code and improve it to:
 ## Questions?
 
 If you have any questions, feel free ton contact me on [twitter](https://twitter.com/julienbarbier42)
+
+## HNWatcher
+For hosted service and more features see [HNWatcher](http://www.hnwatcher.com).
 
 Have fun!
 
